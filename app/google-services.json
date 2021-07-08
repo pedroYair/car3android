@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1000636432930",
+    "project_id": "pedrocar3-5f285",
+    "storage_bucket": "pedrocar3-5f285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000636432930:android:450b7f38097b777822807b",
+        "android_client_info": {
+          "package_name": "com.lsv.pedrocaraballotaskmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000636432930-2n3butago33153bhv78co1g1fosrnnr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lsv.pedrocaraballotaskmanager",
+            "certificate_hash": "f84b4e8a7507bea822a437314af993a1ac199181"
+          }
+        },
+        {
+          "client_id": "1000636432930-beo06bmb7rqaefislfjerc92683gnvat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG9QUXZ3v8Czeg9bQWxvFtL0MwtHSyGx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000636432930-beo06bmb7rqaefislfjerc92683gnvat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
